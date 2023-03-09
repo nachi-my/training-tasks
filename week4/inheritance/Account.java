@@ -11,7 +11,7 @@ public class Account
 				+ ", dob=" + dob + ", balance=" + balance + "]";
 	}
 
-	private String name;
+	private String  name;
 	private String address;
 	private long phoneNo;
 	private Date dob;
