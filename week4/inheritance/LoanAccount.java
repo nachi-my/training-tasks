@@ -1,4 +1,4 @@
-package inheritance;
+package week4.inheritance;
 
 import java.util.Date;
 
